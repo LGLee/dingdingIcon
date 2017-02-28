@@ -436,7 +436,7 @@
 				DEVELOPMENT_TEAM = RZ64W6X58T;
 				INFOPLIST_FILE = dingdingIcon/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = cn.livefor.t.dingdingIcon;
+				PRODUCT_BUNDLE_IDENTIFIER = cn.livefor.dingdingIcon;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -448,7 +448,7 @@
 				DEVELOPMENT_TEAM = RZ64W6X58T;
 				INFOPLIST_FILE = dingdingIcon/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = cn.livefor.t.dingdingIcon;
+				PRODUCT_BUNDLE_IDENTIFIER = cn.livefor.dingdingIcon;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -522,6 +522,7 @@
 				DD9D89031E6512AE0009A1E9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DD9D89041E6512AE0009A1E9 /* Build configuration list for PBXNativeTarget "dingdingIconTests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +531,7 @@
 				DD9D89061E6512AE0009A1E9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DD9D89071E6512AE0009A1E9 /* Build configuration list for PBXNativeTarget "dingdingIconUITests" */ = {
 			isa = XCConfigurationList;
@@ -538,6 +540,7 @@
 				DD9D89091E6512AE0009A1E9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
